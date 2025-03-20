@@ -1,0 +1,14 @@
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\bin\Debug\net8.0\TDE-AULA2.exe
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\bin\Debug\net8.0\TDE-AULA2.deps.json
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\bin\Debug\net8.0\TDE-AULA2.runtimeconfig.json
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\bin\Debug\net8.0\TDE-AULA2.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\bin\Debug\net8.0\TDE-AULA2.pdb
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.AssemblyInfoInputs.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.AssemblyInfo.cs
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.csproj.CoreCompileInputs.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\refint\TDE-AULA2.dll
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.pdb
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\TDE-AULA2.genruntimeconfig.cache
+C:\Users\hicar\Desktop\laboratorio\TDE-AULA2\obj\Debug\net8.0\ref\TDE-AULA2.dll
